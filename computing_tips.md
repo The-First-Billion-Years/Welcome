@@ -19,7 +19,9 @@
 - [Python for Astronomers tutorials #2](https://python4astronomers.github.io/index.html#) - more astro related, fits files, astropy etc
 - [Custom fonts for matplotlib on linux](https://andresabino.com/2015/08/18/fonts-and-matplotlib/)
 - ['Cheat sheet' for Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+- [Jupyter notebook extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html) - make a table of contents, time each cell etc.
 
 ## Other tools
 
-- [Topcat](http://www.star.bris.ac.uk/~mbt/topcat/): While Python should be the main approach for most analysis tasks, its not the easiest for exploring the data. Topcat is really useful for loading catalogues, cross-matching between multiple datasets and performing quick plots.
+- [Topcat](http://www.star.bris.ac.uk/~mbt/topcat/): While Python should be the main approach for most analysis tasks, it's not the easiest for exploring the data. Topcat is really useful for loading catalogues, cross-matching between multiple datasets and performing quick plots.
+
