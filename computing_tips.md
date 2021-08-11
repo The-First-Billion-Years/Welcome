@@ -4,6 +4,10 @@
 
 - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Backup/large file storage
+
+- [ERDA]() is a free ~TB file storage system for University of Copenhagen. I recommend you setup an account (easy) and mount it as a local drive on your laptop via SSHFS (harder) -- follow the instructions clicking on the green head, then "Setup".
+
 ## OS / bash
 
 - [ssh]
