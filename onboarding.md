@@ -5,7 +5,7 @@ Here is some useful information to get setup at NBI/DAWN
 - [DAWN website](#DAWN-website)
 - [Printing](#Printing)
 - [Software](#Software)
-- [Lunch!!](#Lunch!!)
+- [Lunch!!](#lunch)
 
 
 ## Internet
