@@ -6,6 +6,7 @@ Here is some useful information to get setup at NBI/DAWN
 - [Printing](#Printing)
 - [Software](#Software)
 - [Lunch!!](#lunch)
+- [Travel reimbursement](#Travel-reimbursement)
 
 
 ## Internet
@@ -44,4 +45,8 @@ There is a fridge and microwave at DAWN if you want to bring your own lunch, and
 
 <img width="640" alt="Map Canteens NBB Campus 2" src="https://user-images.githubusercontent.com/5003032/134502557-eae54dd1-b8c1-43f1-a2eb-96049e2b85f7.png">
 
+## Travel reimbursement
 
+- You need to have a ’profile’ in the KU finance-system called REJSUD
+- The guide to sign in to the REJSUD system is [here](https://kunet.ku.dk/employee-guide/Pages/Finance/Rejsud.aspx)
+- More information about reimbursement [here](https://kunet.ku.dk/employee-guide/Pages/Finance/Travel-expense-report.aspx)
