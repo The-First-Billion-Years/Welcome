@@ -1,11 +1,11 @@
 # Onboarding
 
 Here is some useful information to get setup at NBI/DAWN
-- [Internet](!Internet)
-- [DAWN website](!DAWN website)
-- [Printing](!Printing)
-- [Software](!Software)
-- [Lunch!!](!Lunch!!)
+- [Internet](#Internet)
+- [DAWN website](#DAWN-website)
+- [Printing](#Printing)
+- [Software](#Software)
+- [Lunch!!](#Lunch!!)
 
 
 ## Internet
