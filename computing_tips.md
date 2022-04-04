@@ -6,7 +6,8 @@
 
 ## Backup/large file storage
 
-- [ERDA]() is a free ~TB file storage system for University of Copenhagen. I recommend you setup an account (easy) and mount it as a local drive on your laptop via SSHFS (harder) -- follow the instructions clicking on the green head, then "Setup".
+- [ERDA](https://erda.ku.dk) is a free ~TB file storage system for University of Copenhagen. I recommend you setup an account (easy) and mount it as a local drive on your laptop via SSHFS (harder) -- follow the instructions clicking on the green head, then "Setup".
+- [MODI](https://erda.dk/public/MODI-user-guide.pdf) is the UCPH cluster you can use for larger jobs, linked to ERDA. Ting-Yi and Charlotte wrote some guides/scripts for running jobs on [MODI](https://github.com/The-First-Billion-Years/MODI_scripts)
 
 ## OS / bash
 
