@@ -4,7 +4,11 @@ Welcome to the First Billion Years group! We'll use this github organization to 
 
 ## Getting started
 
-[Onboarding information](https://github.com/The-First-Billion-Years/Welcome/blob/main/onboarding.md): how to add the NBI printer, where to get lunch etc. in the 
+[Onboarding information](https://github.com/The-First-Billion-Years/Welcome/blob/main/onboarding.md): how to add the NBI printer, where to get lunch etc.
+
+## Group meetings
+
+[Group meetings](https://github.com/The-First-Billion-Years/Welcome/blob/main/group-meeting.md): format for our weekly group meetings at 1pm on Mondays
 
 ## Computing tips
 
